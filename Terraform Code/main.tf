@@ -1,3 +1,3 @@
-resource "example_server" "my-server-name" {
-	uuid_count = "3"
+resource "demo_server" "my-server-name" {
+	uuid_count = "1"
 }

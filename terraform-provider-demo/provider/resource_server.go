@@ -4,7 +4,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/hashicorp/terraform/helper/schema"
+	"github.com/hashicorp/terraform-plugin-sdk/v2/helper/schema"
 )
 
 func resourceServer() *schema.Resource {
